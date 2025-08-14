@@ -2,6 +2,10 @@
 
 This project contains four C++ implementations of a financial order book, each demonstrating a more advanced optimization technique.
 
+
+<img width="772" height="819" alt="Screenshot 2025-08-15 at 4 10 04 AM" src="https://github.com/user-attachments/assets/14d73647-2058-4d33-9b90-a488e98c9d1c" />
+
+
 ## Project Structure
 
 - **/scripts**: Python scripts to generate dense and sparse market data.
